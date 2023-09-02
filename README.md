@@ -1,9 +1,10 @@
   Hi there, I'm Çiğdem Katırcıoğlu 👋  
 
 
-- 🔭 I’m currently working on React-Native
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
+-  I’m currently working on React-Native
+-  I’m currently learning everything 
+-  I’m looking to collaborate with other content creators
+-  You can ask me about React , React Native , HTML , CSS
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
