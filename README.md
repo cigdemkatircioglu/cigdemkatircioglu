@@ -6,7 +6,8 @@ Hi there, I'm Çiğdem Katırcıoğlu 👋
 -  I’m looking to collaborate with other content creators
 -  You can ask me about React , React Native , HTML , CSS
 
-Skills: REACT NATİVE / REACT / JS / HTML / CSS
+## Skills and Experience
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,tailwind,bootstrap,vscode,nodejs,github)](https://skillicons.dev)
 
 
 
